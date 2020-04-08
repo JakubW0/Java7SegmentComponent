@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SevenSegmentComponent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SevenSegmentComponent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
